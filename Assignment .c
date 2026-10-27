@@ -2,7 +2,7 @@
 int main()
 {
   int a;
-  char op;
+
 printf ("\n enter the value of a:");
 scanf("%d",&a);
 if(a>0)
